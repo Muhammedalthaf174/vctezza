@@ -56,7 +56,7 @@ Powered By [ᴢᴀɪᴅ ʙᴏᴛꜱ](t.me/superior_bots) ...
                 ],
                 [
                     InlineKeyboardButton(
-                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/SUPERIOR_BOTS/160"
+                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/tezzasupportchannel"
                     ),
                     InlineKeyboardButton(
                         "ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/muhammedalthaf174/vctezza"
