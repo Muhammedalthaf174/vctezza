@@ -30,13 +30,6 @@ async def _human_time_duration(seconds):
                          .format(amount, unit, "" if amount == 1 else "s"))
     return ', '.join(parts)
     
-   
-
-@Client.on_message(command("stert") & filters.private & ~filters.edited)
-async def start_(client: Client, message: Message):
-    await message.reply_photo(
-        photo=f"{START_PIC}",
-        caption=f"""A Telegram Music Bot Based PyroGram.
 
 💞 **Main Features**
 ~ Support Audio + Video Stream
